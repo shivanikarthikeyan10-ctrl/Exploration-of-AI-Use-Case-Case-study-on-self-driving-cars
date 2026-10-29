@@ -31,5 +31,10 @@ The basic working process of a self-driving car is:
 
 Example: When a self-driving car detects a pedestrian crossing the road, its AI system identifies the pedestrian, predicts the possible movement, and determines whether braking is necessary. The vehicle then applies the brakes to avoid a collision when required.
 
+# SAMPLE IMAGE
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/73fc88d4-8d26-457f-8dd5-1b75302b6094" />
+
+
 # RESULT
 The study of AI-based self-driving cars explains how Artificial Intelligence, Machine Learning, computer vision, and sensor technologies work together to enable autonomous navigation. These systems can detect obstacles, interpret road conditions, plan driving paths, and control vehicle movements. Self-driving technology has the potential to improve transportation efficiency and reduce accidents caused by human error. However, challenges such as unpredictable road conditions, adverse weather, sensor limitations, and safety concerns remain important considerations.
